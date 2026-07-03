@@ -1,0 +1,12 @@
+// Let's test the lexer
+/* Multi-line
+   comment test */
+while (x <= 10) {
+    if (x != 5) {
+        y = x * 2;
+    } else {
+        y = y + 1;
+    }
+    x = x + 1;
+}
+x = true && false || !flag;
