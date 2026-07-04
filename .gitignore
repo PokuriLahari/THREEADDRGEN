@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System Files
+Thumbs.db
+db.properties
+Desktop.ini
+.DS_Store
+.directory
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.env
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Build and Distribution packages
+build/
+dist/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Project-specific generated outputs
+output.svg
+output
