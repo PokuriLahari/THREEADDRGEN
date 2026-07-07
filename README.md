@@ -12,7 +12,7 @@
 
 An interactive, premium-designed web-based dashboard and compiler pipeline visualizer. This tool parses a simple C-like language featuring arithmetic assignments, relational booleans, conditional branchings (if/else), and while loops, translating them into syntax-directed Three-Address Code (TAC) and Polish notation, with full AST mapping and symbol table tracking.
 
-                    LIVE AT : https://threeaddressgenerator.streamlit.app/
+                    LIVE AT : [View Live Application](https://threeaddressgenerator.streamlit.app/)
 
 ---
 
